@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Curso de Python",
+    "description": "Aprende fundamentos de programación en Python",
+    "date": "2026-05-01",
+    "time": "10:00",
+    "place": "Aula 101",
+    "category": "Tecnología"
+  },
+  {
+    "id": 2,
+    "name": "Taller de Liderazgo",
+    "description": "Desarrolla habilidades de liderazgo y trabajo en equipo",
+    "date": "2026-05-03",
+    "time": "14:00",
+    "place": "Sala de Conferencias",
+    "category": "Habilidades Blandas"
+  },
+  {
+    "id": 3,
+    "name": "Capacitación en Marketing",
+    "description": "Estrategias modernas de marketing digital",
+    "date": "2026-05-05",
+    "time": "09:00",
+    "place": "Laboratorio 202",
+    "category": "Emprendimiento"
+  },
+  {
+    "id": 4,
+    "name": "Introducción a Bases de Datos",
+    "description": "Conceptos básicos de SQL y modelado relacional",
+    "date": "2026-05-07",
+    "time": "11:00",
+    "place": "Aula 202",
+    "category": "Tecnología"
+  }
+]
